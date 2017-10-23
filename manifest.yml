@@ -1,0 +1,10 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: nodeJsApp.net
+  name: NodeJsApp
+  host: NodeJsApp
+  disk_quota: 1024M
+ 
+  
